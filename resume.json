@@ -1,0 +1,61 @@
+{
+	"basics": {
+		"name": "Nishchay Shakya",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/75979530?v=4",
+		"email": "2020kucp1082@iiitkota.ac.in",
+		"phone": "9755205861",
+		
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & Engineering",
+		"location": {
+			"address": "181, Sheel Nagar",
+			"postalCode": "474012",
+			"city": "Gwalior",
+			"countryCode": "India",
+			"region": "Madhya Pradesh"
+		},
+		"profiles": [
+			{
+				"network": "Twitter",
+				"username": "handle",
+				"url": "https://www.twitter.com/nishchayshakyaa/"
+			},
+			{
+				"network": "Github",
+				"username": "Utkarsh-1704",
+				"url": "https://github.com/NishchayShakya"
+			},
+			{
+				"network": "linkedin",
+				"username": "Utkarsh Arya",
+				"url": "https://www.linkedin.com/in/nishchay-shakya-63a4631bb/"
+			},
+			{
+				"network": "Instagram",
+				"username": "_utkarsh_arya",
+				"url": "https://www.instagram.com/nishchayshakyaa/"
+			}
+		]
+	},
+
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor",
+
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	
+	"skills": [{
+		"level": "Beginner",
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Football"]
+
+        }],
+	"references": []
+}
