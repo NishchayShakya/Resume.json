@@ -6,7 +6,7 @@
 		"email": "2020kucp1082@iiitkota.ac.in",
 		"phone": "9755205861",
 		
-		"summary": "I'm a student of Indian Institute of Information technology, Kota, pursuing my B.tech in Computer Science & Engineering",
+		"summary": "I'm a student of Indian Institute of Information technology, Kota, pursuing my B.tech in Computer Science & Engineering.",
 		"location": {
 			"address": "181, Sheel Nagar",
 			"postalCode": "474012",
@@ -41,7 +41,7 @@
 		"institution": "Indian Institute of Information Technology,Kota",
 		"area": "Engineering",
 		"studyType": "Bachelor",
-                "startDate": "2020-12-08 //Date",
+                "startDate": "2020-12-08",
 		"gpa": "7",
 		"courses": [
 			"Computer Science & Engineering"
