@@ -23,8 +23,8 @@
 			},
 			{
 				"network": "Github",
-				"username": "NishchayShakya",
-				"url": "https://github.com/NishchayShakya"
+				"username": "NishchayShakya1",
+				"url": "https://github.com/NishchayShakya1"
 			},
 			{
 				"network": "linkedin",
@@ -50,7 +50,7 @@
 	}],
 	"skills": [{
 		"level": "Intermediate",
-		"keywords": ["HTML", "CSS", "Javascript", "C/C++", "Python"]
+		"keywords": ["C/C++", "Python", "Flutter", "Dart", "Firebase", "Javascript"]
 	}],
 	"interests": [{
 		"name": "Sports",
